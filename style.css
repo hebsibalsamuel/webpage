@@ -1,0 +1,55 @@
+body
+{
+  background: url(wood.jpg);
+
+}
+.container
+{
+  width: 2560px;
+  height: 1600px;
+  background: #C0C0C0;
+}
+.heading
+{
+   background: url(infinity.png)no-repeat;
+   background-size: 102px 102px;
+   background-position: 111px 19px;
+
+}
+
+img {
+    color: transparent;
+    font-size: 0;
+    vertical-align: middle;
+    margin-left: 30px;
+    -ms-interpolation-mode: bicubic;
+}
+.list
+{
+  margin-top: 29px;
+
+}
+h1.heading
+{
+    font-family: 'Great Vibes', cursive;
+    font-size: 56px;
+}
+h1,p,a
+{
+  font-family: 'Chewy', cursive;
+  font-size: 40px;
+
+}
+h1.heading
+{
+  font-family: 'Great Vibes', cursive;
+}
+nav li
+{
+  display: inline;
+}
+  .google-play-store-icon
+ {
+    width: 136px;
+    background: url(playstore.png)no-repeat;
+}
